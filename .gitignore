@@ -1,3 +1,6 @@
+.idea
+*-gdeck.yml
+
 # Binaries for programs and plugins
 *.exe
 *.dll
